@@ -60,7 +60,7 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 
 |Position|Team|Current lowest byte count|Author|
 |--------|----|-------------------------|------|
-|-|Jelly|-|-|
+|1.|Jelly|6 bytes|[SatansSon](https://github.com/SatansSon)|
 |-|Pyth|-|-|
 |-|Husk|-|-|
 |-|05AB1E|-|-|
