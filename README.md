@@ -1,2 +1,3 @@
 # CodeGolf-Hackathon
-CodeGolf Hackathon is a competition that aims to find the shortest code required to solve some specific programming puzzles, in the golfing languages used on [PPCG](https://codegolf.stackexchange.com). WIP.
+
+Welcome to CodeGolf Hackathon. This is a competition whose goal is to find the shortest code in each (golfing) language in order to solve a specific problem.
