@@ -27,23 +27,13 @@ All the elements respect the condition, thus this is a golfy array.
 |Input|Output|
 |-----|------|
 |`[]`|True|
-
 |`[3]`|True|
-
 |`[2, 12]`|True|
-
 |`[1, 4, 3, 8, 6]`|True|
-
 |`[1, 2, 3, 4, 5]`|True|
-
 |`[6, 6, 6, 6, 6]`|True|
-
 |`[3, 2]`|False|
-
 |`[4, 5, 6, 4]`|False|
-
 |`[4, 2, 1, 5, 7]`|False|
-
 |`[45, 45, 46, 43]`|False|
-
 |`[32, 9, 15, 19, 10]`|False|
