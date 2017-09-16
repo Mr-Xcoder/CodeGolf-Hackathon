@@ -61,7 +61,7 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 |Position|Team|Current lowest byte count|Author|Status|
 |--------|----|-------------------------|------|------|
 |**#1**|Jelly|6 bytes|[SatansSon](https://github.com/SatansSon)|Current Leader|
-|-|Pyth|-|-|
-|-|Husk|-|-|
-|-|05AB1E|-|-|
-|-|2Deorstv|-|-|
+|-|Pyth|-|-|No submission yet.|
+|-|Husk|-|-|No submission yet.|
+|-|05AB1E|-|-|No submission yet.|
+|-|2Deorstv|-|-|No submission yet.|
