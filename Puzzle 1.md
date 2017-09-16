@@ -6,7 +6,7 @@ For example, the following array:
 
     [1, 4, 3, 8, 6]
     
-Is a golfy array, because each term is higher than the arithmetic mean of those preceding it. Let's work cwork it out step-by-step:
+Is a golfy array, because each term is higher than the arithmetic mean of those preceding it. Let's work it out step-by-step:
 
 |Current Number|Elements preceding it|Average|Follows the rule?|
 |--------------|---------------------|-------|-----------------|
