@@ -4,7 +4,11 @@
 
 A *golfy array* is an array of positive integers, where each element is higher than or equal to the arithmetic mean of all the previous terms. 
 
-### Exmple
+### Task
+
+Your task is to determine whether a given array is golfy or not.
+
+### Example
 
 For example, the following array:
 
@@ -60,3 +64,4 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 |-|Pyth|-|-|
 |-|Husk|-|-|
 |-|05AB1E|-|-|
+|-|2Deorstv|-|-|
