@@ -60,7 +60,7 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 
 |Position|Team|Current lowest byte count|Author|Status|
 |--------|----|-------------------------|------|------|
-|**#1**|Jelly|6 bytes|[SatansSon](https://github.com/SatansSon)|Current Leader|
+|**#1**|Jelly|[6 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Jelly%20team/Jelly.md)|[SatansSon](https://github.com/SatansSon)|Current Leader|
 |-|Pyth|-|-|No submission yet.|
 |-|Husk|-|-|No submission yet.|
 |-|05AB1E|-|-|No submission yet.|
