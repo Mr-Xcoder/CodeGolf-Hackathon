@@ -37,3 +37,7 @@ All the elements respect the condition, thus this is a golfy array.
 |`[4, 2, 1, 5, 7]`|False|
 |`[45, 45, 46, 43]`|False|
 |`[32, 9, 15, 19, 10]`|False|
+
+### References 
+
+- [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean).
