@@ -1,4 +1,4 @@
-#[Pyth](https://github.com/isaacg1/pyth), 10 bytes
+# [Pyth](https://github.com/isaacg1/pyth), 10 bytes
 
     .A.egb.O<Q
 
