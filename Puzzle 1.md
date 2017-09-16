@@ -51,3 +51,12 @@ All the elements respect the condition, thus this is a golfy array.
 - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean).
 
 - **Labels (from PPCG Tags):** [Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation), [Integer](https://codegolf.stackexchange.com/questions/tagged/integer), [Arithmetic](https://codegolf.stackexchange.com/questions/tagged/arithmetic), [Decision Problem](https://codegolf.stackexchange.com/questions/tagged/decision-problem).
+
+### Scoreboard
+
+|Position|Team|Current lowest byte count|Author|
+|--------|----|-------------------------|------|
+|-|Jelly|-|-|
+|-|Pyth|-|-|
+|-|Husk|-|-|
+|-|05AB1E|-|-|
