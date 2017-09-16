@@ -11,3 +11,5 @@ Welcome to CodeGolf Hackathon! This is a competition whose goal is to find the s
  - The [Husk team](https://github.com/barbuz/Husk).
  
  - Other potential teams (?): [Japt](https://github.com/ETHproductions/japt/), [MATL](https://github.com/lmendo/MATL). On request, I can add more.
+
+A golfer can participate in one or more teams. 
