@@ -27,3 +27,5 @@ If you want to submit your answer to one of the Puzzles:
 - Paste your submission in the newly created file, after *you make sure that it is correct*! Click *Commit Changes* and wait for me to merge it. 
 
 - It is also recommended to create a markdown file that includes your code, a [TIO link](https://tio.run) and an explanation on how your code works, if needed.
+
+Each puzzle will have a scoreboard, and a generic Scoreboard will be added in the future, if people choose to join the Hackathon!
