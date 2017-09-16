@@ -20,7 +20,7 @@ If you want to submit your answer to one of the Puzzles:
 
 - Go to the Folder `Puzzle X`, where `X` is the number of the puzzle you want to solve.
 
-- Go to `solutions` and choose one of the available langauge teams.
+- Go to `solutions` and choose the team of an available language.
 
 - There, create a new file called `<language-name>-<your-username>-<number-of-bytes>-bytes.<language-extension>`.
 
