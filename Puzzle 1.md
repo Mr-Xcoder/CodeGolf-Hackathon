@@ -38,6 +38,14 @@ All the elements respect the condition, thus this is a golfy array.
 |`[45, 45, 46, 43]`|False|
 |`[32, 9, 15, 19, 10]`|False|
 
+### Rules
+
+- [PPCG loopholes apply](https://codegolf.meta.stackexchange.com/questions/1061/loopholes-that-are-forbidden-by-default).
+
+- [PPCG Standard Input and Output methods apply](https://codegolf.meta.stackexchange.com/questions/2447/default-for-code-golf-input-output-methods).
+
+- You can choose any two distinct non-empty values. They **must** be consistent.
+
 ### References 
 
 - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean).
