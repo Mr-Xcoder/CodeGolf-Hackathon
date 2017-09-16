@@ -58,9 +58,9 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 
 ### Scoreboard
 
-|Position|Team|Current lowest byte count|Author|
-|--------|----|-------------------------|------|
-|1.|Jelly|6 bytes|[SatansSon](https://github.com/SatansSon)|
+|Position|Team|Current lowest byte count|Author|Status|
+|--------|----|-------------------------|------|------|
+|**#1**|Jelly|6 bytes|[SatansSon](https://github.com/SatansSon)|Current Leader|
 |-|Pyth|-|-|
 |-|Husk|-|-|
 |-|05AB1E|-|-|
