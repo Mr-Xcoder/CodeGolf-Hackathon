@@ -1,5 +1,7 @@
 # Puzzle 1 - The Golfy Array
 
+**Difficulty:** 4/10
+
 ### Definition
 
 A *golfy array* is an array of positive integers, where each element is higher than or equal to the arithmetic mean of all the previous terms. 
