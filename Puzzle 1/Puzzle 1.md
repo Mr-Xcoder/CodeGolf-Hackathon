@@ -64,7 +64,7 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 |--------|----|-------------------------|------|------|
 |**#1**|Jelly|[6 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Jelly%20team/Jelly.md)|[SatansSon](https://github.com/SatansSon)|Current Leader.|
 |**#2**|Pyth|[10 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth.md)|[Mr-Xcoder](https://github.com/Mr-Xcoder)|Competitor.|
-|**#2**|Pyth|[10 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth2.pyth)|[GolfingSuccess](https://github.com/GolfingSuccess)|Competitor.|
+|**#2**|Pyth|[10 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth2.md)|[GolfingSuccess](https://github.com/GolfingSuccess)|Competitor.|
 |-|Husk|-|-|No submission yet.|
 |-|05AB1E|-|-|No submission yet.|
 |-|2Deorstv|-|-|No submission yet.|
