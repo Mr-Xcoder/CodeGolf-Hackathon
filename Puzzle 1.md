@@ -42,6 +42,4 @@ All the elements respect the condition, thus this is a golfy array.
 
 - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean).
 
-### Tags
-
-[Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation), [Integer](https://codegolf.stackexchange.com/questions/tagged/integer), [Arithmetic](https://codegolf.stackexchange.com/questions/tagged/arithmetic)
+**Labels (from PPCG):** [Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation), [Integer](https://codegolf.stackexchange.com/questions/tagged/integer), [Arithmetic](https://codegolf.stackexchange.com/questions/tagged/arithmetic).
