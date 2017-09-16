@@ -6,7 +6,7 @@
 
 Author: [Mr-Xcoder](https://github.com/Mr-Xcoder) - [Mr. Xcoder](https://chat.stackexchange.com/users/268674)
 
-#Explanation
+# Explanation
 
     .A.egb.O<Q  - Full program.
     
