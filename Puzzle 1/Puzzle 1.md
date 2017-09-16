@@ -20,7 +20,7 @@ Is a golfy array, because each term is higher than the arithmetic mean of those 
 |`8`|`[1, 4, 3]`|`2.(6)`|`8 ≥ 2.(6)`, True|
 |`6`|`[1, 4, 3, 8]`|`4.0`|`6 ≥ 4.0`, True|
 
-All the elements respect the condition, thus this is a golfy array.
+All the elements respect the condition, thus this is a golfy array. Note that for the purpose of this challenge, we will assume that the average of `[]` is `0`.
 
 ### Test Cases
 
