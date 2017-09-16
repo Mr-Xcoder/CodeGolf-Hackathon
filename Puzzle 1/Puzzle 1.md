@@ -1,7 +1,5 @@
 # Puzzle 1 - The Golfy Array
 
-**Difficulty:** 4/10
-
 ### Definition
 
 A *golfy array* is an array of positive integers, where each element is higher than or equal to the arithmetic mean of all the previous terms. 
@@ -57,6 +55,8 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean).
 
 - **Labels (from PPCG Tags):** [Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation), [Integer](https://codegolf.stackexchange.com/questions/tagged/integer), [Arithmetic](https://codegolf.stackexchange.com/questions/tagged/arithmetic), [Decision Problem](https://codegolf.stackexchange.com/questions/tagged/decision-problem).
+
+- **Difficulty:** 4/10
 
 ### Scoreboard
 
