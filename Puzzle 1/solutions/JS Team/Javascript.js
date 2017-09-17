@@ -1,1 +1,1 @@
-a=>a.reduce((a,b)=>b<a||a<0?-1:(a+b)/2)
+a=>a.reduce((a,b)=>a&&b>=a&&(a+b)/2)
