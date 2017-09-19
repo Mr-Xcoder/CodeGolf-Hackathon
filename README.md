@@ -12,6 +12,10 @@ Welcome to CodeGolf Hackathon! This is a competition whose goal is to find the s
  
  - The [2Deorstv team](https://github.com/SatansSon/2Deorstv), added on request.
  
+ - The [Javascript team](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/tree/master/Puzzle%201/solutions/JS%20Team), added on request.
+ 
+ - The [Python Team](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/tree/master/Puzzle%201/solutions/Python%20Team), added on request.
+ 
  - Other potential teams (?): [Japt](https://github.com/ETHproductions/japt/), [MATL](https://github.com/lmendo/MATL). On request, I can add more.
 
 A golfer can participate in one or more teams. In order to be able to submit an answer, please request write access and ping me in [The Nineteenth Byte](https://chat.stackexchange.com/rooms/240/the-nineteenth-byte) or in the [dedicated chat room](https://chat.stackexchange.com/rooms/65697/codegolf-hackathon). Good luck golfing!
