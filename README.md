@@ -10,8 +10,6 @@ Welcome to CodeGolf Hackathon! This is a competition whose goal is to find the s
  
  - The [Husk team](https://github.com/barbuz/Husk).
  
- - The [2Deorstv team](https://github.com/SatansSon/2Deorstv), added on request.
- 
  - The [Javascript team](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/tree/master/Puzzle%201/solutions/JS%20Team), added on request.
  
  - The [Python Team](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/tree/master/Puzzle%201/solutions/Python%20Team), added on request.
