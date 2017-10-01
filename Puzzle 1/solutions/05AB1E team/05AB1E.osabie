@@ -1,1 +1,4 @@
-
+    η        "Compute the prefixes of the input                "\
+     ÅA      "Arithmetic mean on each sub-array                "\
+       D     "Duplicate that array                             "\
+        {Q   "Check if the array is equal to the sorted version"\
