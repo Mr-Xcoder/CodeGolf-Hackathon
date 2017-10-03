@@ -66,4 +66,4 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 |**#1**|05AB1E|[6 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/05AB1E%20team/05AB1E.md)|[Adriandmen](https://github.com/Adriandmen)|**Golden golf**|
 |**#2**|Pyth|[7 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth2.md)|[GolfingSuccess](https://github.com/GolfingSuccess)|**Silver golf**|
 |**#3**|Husk|[8 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Husk%20Team/Husk.md)|[H.PWiz](https://codegolf.stackexchange.com/users/71256/h-pwiz)|**Bronze Golf**|
-|**#4**|Pyth|[10 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth.md)|[Mr-Xcoder](https://github.com/Mr-Xcoder)||
+|**#4**|Pyth|[10 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth.md)|[Mr-Xcoder](https://github.com/Mr-Xcoder)|**Competitor**|
