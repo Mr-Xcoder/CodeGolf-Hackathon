@@ -20,7 +20,7 @@ And then try spliting them into chuncks of variable length, each length being eq
  
 Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing), your task is to output the sum of deltas bewteen the digits in that chunck (the differences between consecutive digits).
 
-### Examples
+### Examples & Test cases
 
 |**N**|Chunck|Deltas|Sum|
 |-----|------|------|---|
