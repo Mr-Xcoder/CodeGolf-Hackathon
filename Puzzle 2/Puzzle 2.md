@@ -35,3 +35,16 @@ Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing),
 |9|`324252627`|`[-1, 2, -2, 3, -3, 4, -4, 5]`|`4`|
 |10|`2829303132`|`[6, -6, 7, -6, -3, 3, -2, 2, -1]`|`0`|
 
+### Rules
+
+- [PPCG loopholes apply](https://codegolf.meta.stackexchange.com/questions/1061/loopholes-that-are-forbidden-by-default).
+
+- [PPCG Standard Input and Output methods apply](https://codegolf.meta.stackexchange.com/questions/2447/default-for-code-golf-input-output-methods).
+
+- You may choose either 0 or 1-indexing for **N**.
+
+- You may **not** include **0** in the sequence though, so it must start with `1234...`.
+
+### References 
+
+- **Labels (from PPCG Tags):** [Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation), [Integer](https://codegolf.stackexchange.com/questions/tagged/integer), [Arithmetic](https://codegolf.stackexchange.com/questions/tagged/arithmetic), [Decision Problem](https://codegolf.stackexchange.com/questions/tagged/decision-problem).
