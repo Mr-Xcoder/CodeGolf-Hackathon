@@ -26,7 +26,7 @@ If you want to submit your answer to one of the Puzzles:
 
 - Go to `solutions` and choose the team of an available language.
 
-- There, create a new file called `<language-name>-<your-username>-<number-of-bytes>-bytes.<language-extension>`.
+- There, create a new file called `<language-name>(<solution-number (if multiple solutions exist)>).<language-extension>`.
 
 - Paste your submission in the newly created file, after *you make sure that it is correct*! Click *Commit Changes* and wait for me to merge it. 
 
