@@ -56,4 +56,4 @@ Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing),
 |Position|Team|Current lowest byte count|Author|Current Status|
 |--------|----|-------------------------|------|--------------|
 |**#1**|Husk|[9 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%202/solutions/Husk%20team/Husk.md)|[GolfingSuccess](https://github.com/GolfingSuccess)|**Golden golf**|
-|**#2**|Jelly|[13 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%202/solutions/Jelly%20team/Jelly.md)|[kckennylau](https://github.com/kckennylau)|**Silver golf**|
+|**#2**|Jelly|[13 bytes]<!--(https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%202/solutions/Jelly%20team/Jelly.md)--> (no explanation)|[kckennylau](https://github.com/kckennylau)|**Silver golf**|
