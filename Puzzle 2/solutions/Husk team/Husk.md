@@ -18,3 +18,9 @@ Author: [GolfingSuccess](https://github.com/GolfingSuccess) - [Erik the Outgolfe
      Ẋ         (x -> x -> y):f -> [x]:x -> [y] :: map f over overlapping pairs of x (above result)
       -         f= num:x -> num:y -> num :: return y - x
     Σ          [num]:x -> num :: return sum of x (above result)
+
+Alternative:
+
+    ΣẊ-!CNṁdN
+
+Author: [Mr-Xcoder](https://github.com/Mr-Xcoder) - [Mr. Xcoder](https://chat.stackexchange.com/users/268674)
