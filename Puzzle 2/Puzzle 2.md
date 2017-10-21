@@ -47,4 +47,12 @@ Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing),
 
 ### References 
 
-- **Labels (from PPCG Tags):** [Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation), [Integer](https://codegolf.stackexchange.com/questions/tagged/integer), [Arithmetic](https://codegolf.stackexchange.com/questions/tagged/arithmetic), [Decision Problem](https://codegolf.stackexchange.com/questions/tagged/decision-problem).
+- **Labels (from PPCG Tags):** [Sequence](https://codegolf.stackexchange.com/questions/tagged/sequence), [Array Manipulation](https://codegolf.stackexchange.com/questions/tagged/array-manipulation).
+
+- **Difficulty:** 6/10
+
+### Scoreboard
+
+|Position|Team|Current lowest byte count|Author|Current Status|
+|--------|----|-------------------------|------|--------------|
+|-|-|-|-|-|
