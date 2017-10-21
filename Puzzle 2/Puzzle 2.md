@@ -10,7 +10,7 @@ Then, concatenate them:
 
     1234567891011121314151617181920212223242526...
     
-And then try spliting them into chuncks of variable length, each length being equal to the **N**th positive integer:
+And then try spliting them into chunks of variable length, each length being equal to the **N**th positive integer:
 
     [1][23][456][7891][01112][131415][1617181][92021222][324252627][2829303132] ...
     ---------------------------------------------------------------------------
@@ -18,7 +18,7 @@ And then try spliting them into chuncks of variable length, each length being eq
      
 ### Task
  
-Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing), your task is to output the sum of deltas bewteen the digits in that chunck (the differences between consecutive digits).
+Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing), your task is to output the sum of deltas between the digits in that chunk (the differences between consecutive digits).
 
 ### Examples & Test cases
 
