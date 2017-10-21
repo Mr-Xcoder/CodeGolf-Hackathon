@@ -22,7 +22,7 @@ Given an integer **N** (positive for 1-indexing or non-negative for 0-indexing),
 
 ### Examples & Test cases
 
-|**N**|Chunck|Deltas|Sum|
+|**N**|Chunk|Deltas|Sum|
 |-----|------|------|---|
 |1|`1`|`[]`|`0`|
 |2|`23`|`[1]`|`1`|
