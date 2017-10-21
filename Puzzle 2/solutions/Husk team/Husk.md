@@ -15,6 +15,6 @@ Author: [GolfingSuccess](https://github.com/GolfingSuccess) - [Erik the Outgolfe
            d     f= num:x -> [num] :: return decimal digits of x
             N   x= sequence of natural numbers [1..]
        !     ⁰ [x]:x -> num:y -> x :: get yth (impl. input) element of x (above result)
-     Ẋ         (x -> x -> y):f -> [x]:x -> [y] :: map f over overlapping pairs of x
+     Ẋ         (x -> x -> y):f -> [x]:x -> [y] :: map f over overlapping pairs of x (above result)
       -         f= num:x -> num:y -> num :: return y - x
-    Σ          [num]:x -> num :: return sum of x
+    Σ          [num]:x -> num :: return sum of x (above result)
