@@ -18,4 +18,6 @@ And then try spliting them into chuncks of variable length, each length being eq
      
  ### Task
  
- Given a positive integer **N** (or non-negative for 0-indexing), your task is to output the deltas bewteen the digits in that chunck (the differences between consecutive digits).
+ Given a positive integer **N** (or non-negative for 0-indexing), your task is to output the sum of deltas bewteen the digits in that chunck (the differences between consecutive digits).
+
+# EXAMPLES INCOMING, WIP
