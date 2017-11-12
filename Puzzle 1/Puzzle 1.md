@@ -62,7 +62,7 @@ All the elements respect the condition, thus this is a golfy array. Note that fo
 
 |Position|Team|Current lowest byte count|Author|Current Status|
 |--------|----|-------------------------|------|------|
-|**#1**|Jelly|[6 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Jelly%20team/Jelly.md)|[SatansSon](https://github.com/SatansSon)|**Golden golf**|
+|**#1**|Jelly|[6 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Jelly%20team/Jelly.md)|[cairdcoinheringaahing](https://github.com/cairdcoinheringaahing)|**Golden golf**|
 |**#1**|05AB1E|[6 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/05AB1E%20team/05AB1E.md)|[Adriandmen](https://github.com/Adriandmen)|**Golden golf**|
 |**#2**|Pyth|[7 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Pyth%20team/Pyth2.md)|[GolfingSuccess](https://github.com/GolfingSuccess)|**Silver golf**|
 |**#3**|Husk|[8 bytes](https://github.com/Mr-Xcoder/CodeGolf-Hackathon/blob/master/Puzzle%201/solutions/Husk%20Team/Husk.md)|[H.PWiz](https://codegolf.stackexchange.com/users/71256/h-pwiz)|**Bronze Golf**|
