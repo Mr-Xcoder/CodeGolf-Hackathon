@@ -4,7 +4,7 @@
 
 [Test suite.](https://tio.run/##yygtzv6vkPuoqfH/ucUPd3XpKgY7P9zZmOL3////aEMdIx1jHRMdUx0zHXMdCx1LHUODWAA)
 
-Author: [GolfingSuccess](https://github.com/GolfingSuccess) - [Erik the Outgolfer](https://chat.stackexchange.com/users/80316/erik-the-outgolfer)
+**Author**: [GolfingSuccess](https://github.com/GolfingSuccess) - [Erik the Outgolfer](https://chat.stackexchange.com/users/80316/erik-the-outgolfer)
 
 # Explanation
 
