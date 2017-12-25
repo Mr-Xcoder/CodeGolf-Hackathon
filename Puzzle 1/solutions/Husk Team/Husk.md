@@ -1,10 +1,12 @@
-# [Husk], 8 bytes
+# [Husk], 7 bytes
 
-    S=Oz/NG+
+    S=Oz/N∫
 
-[Try it online!][TIO-j7oehn97]
+[Try it online!][TIO-jbmiowpe]
 
 [Husk]: https://github.com/barbuz/Husk
-[TIO-j7oehn97]: https://tio.run/##yygtzv6vkHtiffGjpsaiQ9v@B9v6V@n7uWv///8/OpYr2hiIjXQMjYCUoY6JjrGOhY4ZmG0EZJvomALZZjpQCFKuA1IJFAfyTcAsoGYgzxzENtUBIaAEyFBjIx1LHUNTHUMgaRALAA "Husk – Try It Online"
+[TIO-jbmiowpe]: https://tio.run/##yygtzv6vkHtiffGjpsaiQ9v@B9v6V@n7PepY/f///@hYrmhjIDbSMTQCUoY6JjrGOhY6ZmC2EZBtomMKZJvpQCFIuQ5IJVAcyDcBs4CagTxzENtUB4SAEiBDjY10LHUMTXUMgaRBLAA "Husk – Try It Online"
 
-Author: [H.PWiz](https://codegolf.stackexchange.com/users/71256/h-pwiz)
+**Author:** [H.PWiz](https://codegolf.stackexchange.com/users/71256/h-pwiz)
+
+**Contributors:** [Bruce Forte](https://codegolf.stackexchange.com/users/48198/bruce-forte) (-1 byte).
